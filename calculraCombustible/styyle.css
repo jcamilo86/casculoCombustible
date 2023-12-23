@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(198, 168, 31);
+}
+.contendor{
+    text-align: center;
+   margin: 20px;
+}
+h1,h2,p{
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+img{
+   width: 300px;
+  display: flex;
+  align-items: center;
+  margin-left: 550px;
+}
+button{
+    height: 30px;
+width:200px ;
+font-size: 15px;
+
+}
